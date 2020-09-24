@@ -1,4 +1,4 @@
-![.github/workflows/main.yml](https://github.com/mmochan/github-custom-action/workflows/.github/workflows/main.yml/badge.svg)
+![Hello](https://github.com/mmochan/github-custom-action/workflows/.github/workflows/hello.yml/badge.svg)
 
 # Hello world docker action
 
